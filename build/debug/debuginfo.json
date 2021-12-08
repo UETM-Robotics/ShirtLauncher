@@ -1,9 +1,0 @@
-[
-  {
-    "artifact": "frcJava (in project pepralley)",
-    "target": "roborio",
-    "debugfile": "frcJava_roborio.debugconfig",
-    "project": "pepralley",
-    "language": "java"
-  }
-]
